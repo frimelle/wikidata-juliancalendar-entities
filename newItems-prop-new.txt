@@ -44,7 +44,6 @@ http://wikidata.org/wiki/Q4134684 http://www.wikidata.org/w/index.php?title=Q413
 http://wikidata.org/wiki/Q3726692 http://www.wikidata.org/w/index.php?title=Q3726692&diff=75185698
 http://wikidata.org/wiki/Q435204 http://www.wikidata.org/w/index.php?title=Q435204&diff=80257965
 http://wikidata.org/wiki/Q4767106 http://www.wikidata.org/w/index.php?title=Q4767106&diff=78127502
-http://wikidata.org/wiki/Q4392603 http://www.wikidata.org/w/index.php?title=Q4392603&diff=79900814
 http://wikidata.org/wiki/Q4255820 http://www.wikidata.org/w/index.php?title=Q4255820&diff=83988989
 http://wikidata.org/wiki/Q4398767 http://www.wikidata.org/w/index.php?title=Q4398767&diff=80277239
 http://wikidata.org/wiki/Q6768814 http://www.wikidata.org/w/index.php?title=Q6768814&diff=115136748
@@ -368,7 +367,6 @@ http://wikidata.org/wiki/Q4261529 http://www.wikidata.org/w/index.php?title=Q426
 http://wikidata.org/wiki/Q4316594 http://www.wikidata.org/w/index.php?title=Q4316594&diff=78601514
 http://wikidata.org/wiki/Q1329792 http://www.wikidata.org/w/index.php?title=Q1329792&diff=85852867 http://www.wikidata.org/w/index.php?title=Q1329792&diff=85852863
 http://wikidata.org/wiki/Q40787 http://www.wikidata.org/w/index.php?title=Q40787&diff=121127589
-http://wikidata.org/wiki/Q4073332 http://www.wikidata.org/w/index.php?title=Q4073332&diff=81106302
 http://wikidata.org/wiki/Q4386722 http://www.wikidata.org/w/index.php?title=Q4386722&diff=80157962
 http://wikidata.org/wiki/Q211551 http://www.wikidata.org/w/index.php?title=Q211551&diff=78335367
 http://wikidata.org/wiki/Q939520 http://www.wikidata.org/w/index.php?title=Q939520&diff=82630312
@@ -566,11 +564,9 @@ http://wikidata.org/wiki/Q3439598 http://www.wikidata.org/w/index.php?title=Q343
 http://wikidata.org/wiki/Q3033149 http://www.wikidata.org/w/index.php?title=Q3033149&diff=82687653 http://www.wikidata.org/w/index.php?title=Q3033149&diff=82687645
 http://wikidata.org/wiki/Q4459942 http://www.wikidata.org/w/index.php?title=Q4459942&diff=78125601 http://www.wikidata.org/w/index.php?title=Q4459942&diff=78125591
 http://wikidata.org/wiki/Q4354891 http://www.wikidata.org/w/index.php?title=Q4354891&diff=79002919
-http://wikidata.org/wiki/Q4201334 http://www.wikidata.org/w/index.php?title=Q4201334&diff=83154401 http://www.wikidata.org/w/index.php?title=Q4201334&diff=83154394
 http://wikidata.org/wiki/Q379412 http://www.wikidata.org/w/index.php?title=Q379412&diff=66896565
 http://wikidata.org/wiki/Q14824538 http://www.wikidata.org/w/index.php?title=Q14824538&diff=77764183
 http://wikidata.org/wiki/Q15068206 http://www.wikidata.org/w/index.php?title=Q15068206&diff=77866582
-http://wikidata.org/wiki/Q4447428 http://www.wikidata.org/w/index.php?title=Q4447428&diff=78612407
 http://wikidata.org/wiki/Q289727 http://www.wikidata.org/w/index.php?title=Q289727&diff=84543957
 http://wikidata.org/wiki/Q307629 http://www.wikidata.org/w/index.php?title=Q307629&diff=77898693 http://www.wikidata.org/w/index.php?title=Q307629&diff=77898671
 http://wikidata.org/wiki/Q11623160 http://www.wikidata.org/w/index.php?title=Q11623160&diff=121359418
@@ -1402,7 +1398,6 @@ http://wikidata.org/wiki/Q1194995 http://www.wikidata.org/w/index.php?title=Q119
 http://wikidata.org/wiki/Q595709 http://www.wikidata.org/w/index.php?title=Q595709&diff=81385852
 http://wikidata.org/wiki/Q272238 http://www.wikidata.org/w/index.php?title=Q272238&diff=75176956
 http://wikidata.org/wiki/Q96261 http://www.wikidata.org/w/index.php?title=Q96261&diff=78390026
-http://wikidata.org/wiki/Q4056833 http://www.wikidata.org/w/index.php?title=Q4056833&diff=80821148
 http://wikidata.org/wiki/Q4494045 http://www.wikidata.org/w/index.php?title=Q4494045&diff=77703594
 http://wikidata.org/wiki/Q2184 http://www.wikidata.org/w/index.php?title=Q2184&diff=52086261
 http://wikidata.org/wiki/Q389903 http://www.wikidata.org/w/index.php?title=Q389903&diff=81144987 http://www.wikidata.org/w/index.php?title=Q389903&diff=81144980
@@ -1566,7 +1561,6 @@ http://wikidata.org/wiki/Q4513086 http://www.wikidata.org/w/index.php?title=Q451
 http://wikidata.org/wiki/Q4338440 http://www.wikidata.org/w/index.php?title=Q4338440&diff=79027401
 http://wikidata.org/wiki/Q467705 http://www.wikidata.org/w/index.php?title=Q467705&diff=48380973
 http://wikidata.org/wiki/Q352800 http://www.wikidata.org/w/index.php?title=Q352800&diff=83308616 http://www.wikidata.org/w/index.php?title=Q352800&diff=83308607
-http://wikidata.org/wiki/Q1974876 http://www.wikidata.org/w/index.php?title=Q1974876&diff=82123716
 http://wikidata.org/wiki/Q4082869 http://www.wikidata.org/w/index.php?title=Q4082869&diff=81212611
 http://wikidata.org/wiki/Q1140494 http://www.wikidata.org/w/index.php?title=Q1140494&diff=81551489
 http://wikidata.org/wiki/Q374362 http://www.wikidata.org/w/index.php?title=Q374362&diff=123507427
@@ -1681,7 +1675,6 @@ http://wikidata.org/wiki/Q667227 http://www.wikidata.org/w/index.php?title=Q6672
 http://wikidata.org/wiki/Q154889 http://www.wikidata.org/w/index.php?title=Q154889&diff=75028860
 http://wikidata.org/wiki/Q160387 http://www.wikidata.org/w/index.php?title=Q160387&diff=88843478
 http://wikidata.org/wiki/Q4526361 http://www.wikidata.org/w/index.php?title=Q4526361&diff=75394609
-http://wikidata.org/wiki/Q354403 http://www.wikidata.org/w/index.php?title=Q354403&diff=77350307
 http://wikidata.org/wiki/Q1249624 http://www.wikidata.org/w/index.php?title=Q1249624&diff=84089288
 http://wikidata.org/wiki/Q154886 http://www.wikidata.org/w/index.php?title=Q154886&diff=76306429
 http://wikidata.org/wiki/Q1886661 http://www.wikidata.org/w/index.php?title=Q1886661&diff=82192879
@@ -1784,7 +1777,6 @@ http://wikidata.org/wiki/Q430688 http://www.wikidata.org/w/index.php?title=Q4306
 http://wikidata.org/wiki/Q4199072 http://www.wikidata.org/w/index.php?title=Q4199072&diff=83123690 http://www.wikidata.org/w/index.php?title=Q4199072&diff=83123685
 http://wikidata.org/wiki/Q4371149 http://www.wikidata.org/w/index.php?title=Q4371149&diff=79711250
 http://wikidata.org/wiki/Q4293327 http://www.wikidata.org/w/index.php?title=Q4293327&diff=84784062
-http://wikidata.org/wiki/Q4344100 http://www.wikidata.org/w/index.php?title=Q4344100&diff=79128776
 http://wikidata.org/wiki/Q958052 http://www.wikidata.org/w/index.php?title=Q958052&diff=79943188
 http://wikidata.org/wiki/Q13218063 http://www.wikidata.org/w/index.php?title=Q13218063&diff=83231878
 http://wikidata.org/wiki/Q13218062 http://www.wikidata.org/w/index.php?title=Q13218062&diff=82639803
@@ -1861,7 +1853,6 @@ http://wikidata.org/wiki/Q15108776 http://www.wikidata.org/w/index.php?title=Q15
 http://wikidata.org/wiki/Q1186147 http://www.wikidata.org/w/index.php?title=Q1186147&diff=83700279
 http://wikidata.org/wiki/Q170863 http://www.wikidata.org/w/index.php?title=Q170863&diff=54571180 http://www.wikidata.org/w/index.php?title=Q170863&diff=117903323
 http://wikidata.org/wiki/Q2688749 http://www.wikidata.org/w/index.php?title=Q2688749&diff=84583941
-http://wikidata.org/wiki/Q911131 http://www.wikidata.org/w/index.php?title=Q911131&diff=74281850
 http://wikidata.org/wiki/Q3046904 http://www.wikidata.org/w/index.php?title=Q3046904&diff=75385822
 http://wikidata.org/wiki/Q725465 http://www.wikidata.org/w/index.php?title=Q725465&diff=77928594
 http://wikidata.org/wiki/Q3769562 http://www.wikidata.org/w/index.php?title=Q3769562&diff=83225725 http://www.wikidata.org/w/index.php?title=Q3769562&diff=83225719
@@ -1895,10 +1886,8 @@ http://wikidata.org/wiki/Q44601 http://www.wikidata.org/w/index.php?title=Q44601
 http://wikidata.org/wiki/Q234911 http://www.wikidata.org/w/index.php?title=Q234911&diff=75177345
 http://wikidata.org/wiki/Q4275559 http://www.wikidata.org/w/index.php?title=Q4275559&diff=84494880
 http://wikidata.org/wiki/Q529064 http://www.wikidata.org/w/index.php?title=Q529064&diff=79737724
-http://wikidata.org/wiki/Q11079 http://www.wikidata.org/w/index.php?title=Q11079&diff=81176969 http://www.wikidata.org/w/index.php?title=Q11079&diff=81176964
 http://wikidata.org/wiki/Q4099770 http://www.wikidata.org/w/index.php?title=Q4099770&diff=81458872
 http://wikidata.org/wiki/Q1366513 http://www.wikidata.org/w/index.php?title=Q1366513&diff=77280958
-http://wikidata.org/wiki/Q2552059 http://www.wikidata.org/w/index.php?title=Q2552059&diff=83304999 http://www.wikidata.org/w/index.php?title=Q2552059&diff=83304990
 http://wikidata.org/wiki/Q4059508 http://www.wikidata.org/w/index.php?title=Q4059508&diff=80853476
 http://wikidata.org/wiki/Q65011 http://www.wikidata.org/w/index.php?title=Q65011&diff=75197310
 http://wikidata.org/wiki/Q4424587 http://www.wikidata.org/w/index.php?title=Q4424587&diff=79039478
@@ -1956,7 +1945,6 @@ http://wikidata.org/wiki/Q48047 http://www.wikidata.org/w/index.php?title=Q48047
 http://wikidata.org/wiki/Q1226165 http://www.wikidata.org/w/index.php?title=Q1226165&diff=81319774
 http://wikidata.org/wiki/Q48514 http://www.wikidata.org/w/index.php?title=Q48514&diff=78593915 http://www.wikidata.org/w/index.php?title=Q48514&diff=78593906
 http://wikidata.org/wiki/Q2297338 http://www.wikidata.org/w/index.php?title=Q2297338&diff=108034026
-http://wikidata.org/wiki/Q4341525 http://www.wikidata.org/w/index.php?title=Q4341525&diff=79077968
 http://wikidata.org/wiki/Q4109396 http://www.wikidata.org/w/index.php?title=Q4109396&diff=81687534
 http://wikidata.org/wiki/Q4088992 http://www.wikidata.org/w/index.php?title=Q4088992&diff=81340295
 http://wikidata.org/wiki/Q4100512 http://www.wikidata.org/w/index.php?title=Q4100512&diff=81468430
@@ -2431,7 +2419,6 @@ http://wikidata.org/wiki/Q4181158 http://www.wikidata.org/w/index.php?title=Q418
 http://wikidata.org/wiki/Q127017 http://www.wikidata.org/w/index.php?title=Q127017&diff=109873901 http://www.wikidata.org/w/index.php?title=Q127017&diff=109874099
 http://wikidata.org/wiki/Q1523839 http://www.wikidata.org/w/index.php?title=Q1523839&diff=77712105
 http://wikidata.org/wiki/Q4275169 http://www.wikidata.org/w/index.php?title=Q4275169&diff=84489472
-http://wikidata.org/wiki/Q13628984 http://www.wikidata.org/w/index.php?title=Q13628984&diff=113661727
 http://wikidata.org/wiki/Q31647 http://www.wikidata.org/w/index.php?title=Q31647&diff=81193457 http://www.wikidata.org/w/index.php?title=Q31647&diff=81193466
 http://wikidata.org/wiki/Q4362879 http://www.wikidata.org/w/index.php?title=Q4362879&diff=79610229
 http://wikidata.org/wiki/Q4209657 http://www.wikidata.org/w/index.php?title=Q4209657&diff=79790861
@@ -2462,7 +2449,6 @@ http://wikidata.org/wiki/Q4296339 http://www.wikidata.org/w/index.php?title=Q429
 http://wikidata.org/wiki/Q1517581 http://www.wikidata.org/w/index.php?title=Q1517581&diff=84105883 http://www.wikidata.org/w/index.php?title=Q1517581&diff=84105878
 http://wikidata.org/wiki/Q589567 http://www.wikidata.org/w/index.php?title=Q589567&diff=78229136
 http://wikidata.org/wiki/Q214115 http://www.wikidata.org/w/index.php?title=Q214115&diff=81555283 http://www.wikidata.org/w/index.php?title=Q214115&diff=66850966 http://www.wikidata.org/w/index.php?title=Q214115&diff=81555283
-http://wikidata.org/wiki/Q670447 http://www.wikidata.org/w/index.php?title=Q670447&diff=81361321
 http://wikidata.org/wiki/Q4089242 http://www.wikidata.org/w/index.php?title=Q4089242&diff=81343437
 http://wikidata.org/wiki/Q739838 http://www.wikidata.org/w/index.php?title=Q739838&diff=83688501
 http://wikidata.org/wiki/Q4317033 http://www.wikidata.org/w/index.php?title=Q4317033&diff=78610880
@@ -2851,7 +2837,6 @@ http://wikidata.org/wiki/Q4111877 http://www.wikidata.org/w/index.php?title=Q411
 http://wikidata.org/wiki/Q4404927 http://www.wikidata.org/w/index.php?title=Q4404927&diff=79921628
 http://wikidata.org/wiki/Q41605 http://www.wikidata.org/w/index.php?title=Q41605&diff=83696752 http://www.wikidata.org/w/index.php?title=Q41605&diff=83696740
 http://wikidata.org/wiki/Q4125492 http://www.wikidata.org/w/index.php?title=Q4125492&diff=81894155
-http://wikidata.org/wiki/Q4141773 http://www.wikidata.org/w/index.php?title=Q4141773&diff=82155927 http://www.wikidata.org/w/index.php?title=Q4141773&diff=82155918
 http://wikidata.org/wiki/Q4399906 http://www.wikidata.org/w/index.php?title=Q4399906&diff=80247767
 http://wikidata.org/wiki/Q4170968 http://www.wikidata.org/w/index.php?title=Q4170968&diff=66484316
 http://wikidata.org/wiki/Q325720 http://www.wikidata.org/w/index.php?title=Q325720&diff=81206777
@@ -3042,7 +3027,6 @@ http://wikidata.org/wiki/Q2618468 http://www.wikidata.org/w/index.php?title=Q261
 http://wikidata.org/wiki/Q2715033 http://www.wikidata.org/w/index.php?title=Q2715033&diff=78789281
 http://wikidata.org/wiki/Q120664 http://www.wikidata.org/w/index.php?title=Q120664&diff=123072368
 http://wikidata.org/wiki/Q734108 http://www.wikidata.org/w/index.php?title=Q734108&diff=77469804
-http://wikidata.org/wiki/Q1376819 http://www.wikidata.org/w/index.php?title=Q1376819&diff=82916259
 http://wikidata.org/wiki/Q1283555 http://www.wikidata.org/w/index.php?title=Q1283555&diff=85553148
 http://wikidata.org/wiki/Q184535 http://www.wikidata.org/w/index.php?title=Q184535&diff=61678144 http://www.wikidata.org/w/index.php?title=Q184535&diff=61678071
 http://wikidata.org/wiki/Q924860 http://www.wikidata.org/w/index.php?title=Q924860&diff=83209078
@@ -3105,7 +3089,6 @@ http://wikidata.org/wiki/Q4475281 http://www.wikidata.org/w/index.php?title=Q447
 http://wikidata.org/wiki/Q4062427 http://www.wikidata.org/w/index.php?title=Q4062427&diff=80896854
 http://wikidata.org/wiki/Q4063308 http://www.wikidata.org/w/index.php?title=Q4063308&diff=80908476
 http://wikidata.org/wiki/Q4514597 http://www.wikidata.org/w/index.php?title=Q4514597&diff=76332653
-http://wikidata.org/wiki/Q456902 http://www.wikidata.org/w/index.php?title=Q456902&diff=82725239 http://www.wikidata.org/w/index.php?title=Q456902&diff=82725230
 http://wikidata.org/wiki/Q221723 http://www.wikidata.org/w/index.php?title=Q221723&diff=48604266
 http://wikidata.org/wiki/Q3479714 http://www.wikidata.org/w/index.php?title=Q3479714&diff=81184146
 http://wikidata.org/wiki/Q4065360 http://www.wikidata.org/w/index.php?title=Q4065360&diff=80950010
@@ -3202,7 +3185,6 @@ http://wikidata.org/wiki/Q4152643 http://www.wikidata.org/w/index.php?title=Q415
 http://wikidata.org/wiki/Q4311342 http://www.wikidata.org/w/index.php?title=Q4311342&diff=78521020
 http://wikidata.org/wiki/Q4072620 http://www.wikidata.org/w/index.php?title=Q4072620&diff=81099566
 http://wikidata.org/wiki/Q831287 http://www.wikidata.org/w/index.php?title=Q831287&diff=79680466
-http://wikidata.org/wiki/Q310788 http://www.wikidata.org/w/index.php?title=Q310788&diff=48392320
 http://wikidata.org/wiki/Q459322 http://www.wikidata.org/w/index.php?title=Q459322&diff=87491019
 http://wikidata.org/wiki/Q650499 http://www.wikidata.org/w/index.php?title=Q650499&diff=83694693 http://www.wikidata.org/w/index.php?title=Q650499&diff=83694686
 http://wikidata.org/wiki/Q1365386 http://www.wikidata.org/w/index.php?title=Q1365386&diff=78785319 http://www.wikidata.org/w/index.php?title=Q1365386&diff=78785314
@@ -3514,7 +3496,6 @@ http://wikidata.org/wiki/Q1397779 http://www.wikidata.org/w/index.php?title=Q139
 http://wikidata.org/wiki/Q4141543 http://www.wikidata.org/w/index.php?title=Q4141543&diff=82151444
 http://wikidata.org/wiki/Q2275669 http://www.wikidata.org/w/index.php?title=Q2275669&diff=83171615
 http://wikidata.org/wiki/Q551661 http://www.wikidata.org/w/index.php?title=Q551661&diff=48518369
-http://wikidata.org/wiki/Q4452609 http://www.wikidata.org/w/index.php?title=Q4452609&diff=78526711 http://www.wikidata.org/w/index.php?title=Q4452609&diff=78526704
 http://wikidata.org/wiki/Q473490 http://www.wikidata.org/w/index.php?title=Q473490&diff=78794567 http://www.wikidata.org/w/index.php?title=Q473490&diff=78794565
 http://wikidata.org/wiki/Q2623548 http://www.wikidata.org/w/index.php?title=Q2623548&diff=76641109
 http://wikidata.org/wiki/Q271379 http://www.wikidata.org/w/index.php?title=Q271379&diff=75191254
@@ -3644,7 +3625,6 @@ http://wikidata.org/wiki/Q632866 http://www.wikidata.org/w/index.php?title=Q6328
 http://wikidata.org/wiki/Q888092 http://www.wikidata.org/w/index.php?title=Q888092&diff=84073282 http://www.wikidata.org/w/index.php?title=Q888092&diff=84073289
 http://wikidata.org/wiki/Q4258668 http://www.wikidata.org/w/index.php?title=Q4258668&diff=84084786
 http://wikidata.org/wiki/Q1801768 http://www.wikidata.org/w/index.php?title=Q1801768&diff=83943068
-http://wikidata.org/wiki/Q6485329 http://www.wikidata.org/w/index.php?title=Q6485329&diff=75170397
 http://wikidata.org/wiki/Q593693 http://www.wikidata.org/w/index.php?title=Q593693&diff=79273242 http://www.wikidata.org/w/index.php?title=Q593693&diff=78735872
 http://wikidata.org/wiki/Q326855 http://www.wikidata.org/w/index.php?title=Q326855&diff=79009545
 http://wikidata.org/wiki/Q4416579 http://www.wikidata.org/w/index.php?title=Q4416579&diff=79360751
@@ -3901,7 +3881,6 @@ http://wikidata.org/wiki/Q4223743 http://www.wikidata.org/w/index.php?title=Q422
 http://wikidata.org/wiki/Q261136 http://www.wikidata.org/w/index.php?title=Q261136&diff=82122847
 http://wikidata.org/wiki/Q4519336 http://www.wikidata.org/w/index.php?title=Q4519336&diff=76177119
 http://wikidata.org/wiki/Q4527658 http://www.wikidata.org/w/index.php?title=Q4527658&diff=75230033
-http://wikidata.org/wiki/Q4527659 http://www.wikidata.org/w/index.php?title=Q4527659&diff=75230073
 http://wikidata.org/wiki/Q1442 http://www.wikidata.org/w/index.php?title=Q1442&diff=79361359 http://www.wikidata.org/w/index.php?title=Q1442&diff=79361351
 http://wikidata.org/wiki/Q703296 http://www.wikidata.org/w/index.php?title=Q703296&diff=82089897 http://www.wikidata.org/w/index.php?title=Q703296&diff=82089888
 http://wikidata.org/wiki/Q1976189 http://www.wikidata.org/w/index.php?title=Q1976189&diff=81276157
@@ -4008,7 +3987,6 @@ http://wikidata.org/wiki/Q325696 http://www.wikidata.org/w/index.php?title=Q3256
 http://wikidata.org/wiki/Q887358 http://www.wikidata.org/w/index.php?title=Q887358&diff=84801204
 http://wikidata.org/wiki/Q13832336 http://www.wikidata.org/w/index.php?title=Q13832336&diff=57165551
 http://wikidata.org/wiki/Q816735 http://www.wikidata.org/w/index.php?title=Q816735&diff=81228688
-http://wikidata.org/wiki/Q4065479 http://www.wikidata.org/w/index.php?title=Q4065479&diff=80955121
 http://wikidata.org/wiki/Q665031 http://www.wikidata.org/w/index.php?title=Q665031&diff=82083409
 http://wikidata.org/wiki/Q738888 http://www.wikidata.org/w/index.php?title=Q738888&diff=84488971
 http://wikidata.org/wiki/Q4234016 http://www.wikidata.org/w/index.php?title=Q4234016&diff=83733563
@@ -4047,7 +4025,6 @@ http://wikidata.org/wiki/Q4218872 http://www.wikidata.org/w/index.php?title=Q421
 http://wikidata.org/wiki/Q7580014 http://www.wikidata.org/w/index.php?title=Q7580014&diff=80962646
 http://wikidata.org/wiki/Q348006 http://www.wikidata.org/w/index.php?title=Q348006&diff=70458045
 http://wikidata.org/wiki/Q297651 http://www.wikidata.org/w/index.php?title=Q297651&diff=82761882
-http://wikidata.org/wiki/Q69334 http://www.wikidata.org/w/index.php?title=Q69334&diff=81293606
 http://wikidata.org/wiki/Q260057 http://www.wikidata.org/w/index.php?title=Q260057&diff=78789069 http://www.wikidata.org/w/index.php?title=Q260057&diff=78789065
 http://wikidata.org/wiki/Q4322690 http://www.wikidata.org/w/index.php?title=Q4322690&diff=78697203
 http://wikidata.org/wiki/Q2066867 http://www.wikidata.org/w/index.php?title=Q2066867&diff=79331731
@@ -4627,7 +4604,6 @@ http://wikidata.org/wiki/Q4427179 http://www.wikidata.org/w/index.php?title=Q442
 http://wikidata.org/wiki/Q172248 http://www.wikidata.org/w/index.php?title=Q172248&diff=81424973
 http://wikidata.org/wiki/Q729206 http://www.wikidata.org/w/index.php?title=Q729206&diff=81072422 http://www.wikidata.org/w/index.php?title=Q729206&diff=81072413
 http://wikidata.org/wiki/Q4135771 http://www.wikidata.org/w/index.php?title=Q4135771&diff=82096460
-http://wikidata.org/wiki/Q457976 http://www.wikidata.org/w/index.php?title=Q457976&diff=82014394 http://www.wikidata.org/w/index.php?title=Q457976&diff=82014410
 http://wikidata.org/wiki/Q4166908 http://www.wikidata.org/w/index.php?title=Q4166908&diff=79867561
 http://wikidata.org/wiki/Q457972 http://www.wikidata.org/w/index.php?title=Q457972&diff=82627524 http://www.wikidata.org/w/index.php?title=Q457972&diff=82627518
 http://wikidata.org/wiki/Q338480 http://www.wikidata.org/w/index.php?title=Q338480&diff=80538905 http://www.wikidata.org/w/index.php?title=Q338480&diff=80538896
@@ -4820,7 +4796,6 @@ http://wikidata.org/wiki/Q7265414 http://www.wikidata.org/w/index.php?title=Q726
 http://wikidata.org/wiki/Q2593890 http://www.wikidata.org/w/index.php?title=Q2593890&diff=75171023
 http://wikidata.org/wiki/Q1961090 http://www.wikidata.org/w/index.php?title=Q1961090&diff=81132015
 http://wikidata.org/wiki/Q646297 http://www.wikidata.org/w/index.php?title=Q646297&diff=78796066
-http://wikidata.org/wiki/Q619900 http://www.wikidata.org/w/index.php?title=Q619900&diff=83716306 http://www.wikidata.org/w/index.php?title=Q619900&diff=83716285
 http://wikidata.org/wiki/Q191748 http://www.wikidata.org/w/index.php?title=Q191748&diff=50634826 http://www.wikidata.org/w/index.php?title=Q191748&diff=50653464
 http://wikidata.org/wiki/Q4363592 http://www.wikidata.org/w/index.php?title=Q4363592&diff=79628686
 http://wikidata.org/wiki/Q4102298 http://www.wikidata.org/w/index.php?title=Q4102298&diff=81546396
@@ -5445,7 +5420,6 @@ http://wikidata.org/wiki/Q3052289 http://www.wikidata.org/w/index.php?title=Q305
 http://wikidata.org/wiki/Q239355 http://www.wikidata.org/w/index.php?title=Q239355&diff=82015102
 http://wikidata.org/wiki/Q4123662 http://www.wikidata.org/w/index.php?title=Q4123662&diff=81879158
 http://wikidata.org/wiki/Q4251388 http://www.wikidata.org/w/index.php?title=Q4251388&diff=83301568
-http://wikidata.org/wiki/Q487778 http://www.wikidata.org/w/index.php?title=Q487778&diff=84526468
 http://wikidata.org/wiki/Q4321659 http://www.wikidata.org/w/index.php?title=Q4321659&diff=78691703
 http://wikidata.org/wiki/Q2467013 http://www.wikidata.org/w/index.php?title=Q2467013&diff=79807275
 http://wikidata.org/wiki/Q4087903 http://www.wikidata.org/w/index.php?title=Q4087903&diff=81324510 http://www.wikidata.org/w/index.php?title=Q4087903&diff=81324504
@@ -5492,7 +5466,6 @@ http://wikidata.org/wiki/Q256692 http://www.wikidata.org/w/index.php?title=Q2566
 http://wikidata.org/wiki/Q4172294 http://www.wikidata.org/w/index.php?title=Q4172294&diff=79743287 http://www.wikidata.org/w/index.php?title=Q4172294&diff=79743275
 http://wikidata.org/wiki/Q4284502 http://www.wikidata.org/w/index.php?title=Q4284502&diff=84631900
 http://wikidata.org/wiki/Q3718483 http://www.wikidata.org/w/index.php?title=Q3718483&diff=78289169 http://www.wikidata.org/w/index.php?title=Q3718483&diff=78289157
-http://wikidata.org/wiki/Q4350483 http://www.wikidata.org/w/index.php?title=Q4350483&diff=79346108
 http://wikidata.org/wiki/Q4181364 http://www.wikidata.org/w/index.php?title=Q4181364&diff=82919883
 http://wikidata.org/wiki/Q60171 http://www.wikidata.org/w/index.php?title=Q60171&diff=82090574
 http://wikidata.org/wiki/Q1389588 http://www.wikidata.org/w/index.php?title=Q1389588&diff=79277490
@@ -5881,7 +5854,6 @@ http://wikidata.org/wiki/Q4289075 http://www.wikidata.org/w/index.php?title=Q428
 http://wikidata.org/wiki/Q2068942 http://www.wikidata.org/w/index.php?title=Q2068942&diff=77770509 http://www.wikidata.org/w/index.php?title=Q2068942&diff=77770496
 http://wikidata.org/wiki/Q2496021 http://www.wikidata.org/w/index.php?title=Q2496021&diff=81220893
 http://wikidata.org/wiki/Q273273 http://www.wikidata.org/w/index.php?title=Q273273&diff=80257797
-http://wikidata.org/wiki/Q4202388 http://www.wikidata.org/w/index.php?title=Q4202388&diff=83155628
 http://wikidata.org/wiki/Q4277738 http://www.wikidata.org/w/index.php?title=Q4277738&diff=84517919
 http://wikidata.org/wiki/Q4099200 http://www.wikidata.org/w/index.php?title=Q4099200&diff=79845582
 http://wikidata.org/wiki/Q333306 http://www.wikidata.org/w/index.php?title=Q333306&diff=80575897 http://www.wikidata.org/w/index.php?title=Q333306&diff=80575880
@@ -6710,7 +6682,6 @@ http://wikidata.org/wiki/Q60625 http://www.wikidata.org/w/index.php?title=Q60625
 http://wikidata.org/wiki/Q4459937 http://www.wikidata.org/w/index.php?title=Q4459937&diff=78125728
 http://wikidata.org/wiki/Q2368398 http://www.wikidata.org/w/index.php?title=Q2368398&diff=82241005
 http://wikidata.org/wiki/Q469187 http://www.wikidata.org/w/index.php?title=Q469187&diff=82091347
-http://wikidata.org/wiki/Q15068218 http://www.wikidata.org/w/index.php?title=Q15068218&diff=77867790
 http://wikidata.org/wiki/Q2385083 http://www.wikidata.org/w/index.php?title=Q2385083&diff=81149539
 http://wikidata.org/wiki/Q2625592 http://www.wikidata.org/w/index.php?title=Q2625592&diff=83953059
 http://wikidata.org/wiki/Q2034058 http://www.wikidata.org/w/index.php?title=Q2034058&diff=80835176
@@ -6780,7 +6751,6 @@ http://wikidata.org/wiki/Q254095 http://www.wikidata.org/w/index.php?title=Q2540
 http://wikidata.org/wiki/Q15065058 http://www.wikidata.org/w/index.php?title=Q15065058&diff=77644176
 http://wikidata.org/wiki/Q4085027 http://www.wikidata.org/w/index.php?title=Q4085027&diff=81278545
 http://wikidata.org/wiki/Q4402685 http://www.wikidata.org/w/index.php?title=Q4402685&diff=80180684
-http://wikidata.org/wiki/Q548051 http://www.wikidata.org/w/index.php?title=Q548051&diff=78120630
 http://wikidata.org/wiki/Q4127046 http://www.wikidata.org/w/index.php?title=Q4127046&diff=81907047
 http://wikidata.org/wiki/Q253821 http://www.wikidata.org/w/index.php?title=Q253821&diff=82900231 http://www.wikidata.org/w/index.php?title=Q253821&diff=82900220
 http://wikidata.org/wiki/Q4166394 http://www.wikidata.org/w/index.php?title=Q4166394&diff=82794288
@@ -6979,7 +6949,6 @@ http://wikidata.org/wiki/Q4469233 http://www.wikidata.org/w/index.php?title=Q446
 http://wikidata.org/wiki/Q508447 http://www.wikidata.org/w/index.php?title=Q508447&diff=81296580
 http://wikidata.org/wiki/Q721846 http://www.wikidata.org/w/index.php?title=Q721846&diff=50620778 http://www.wikidata.org/w/index.php?title=Q721846&diff=50620785
 http://wikidata.org/wiki/Q75475 http://www.wikidata.org/w/index.php?title=Q75475&diff=83162092 http://www.wikidata.org/w/index.php?title=Q75475&diff=83162084
-http://wikidata.org/wiki/Q1672740 http://www.wikidata.org/w/index.php?title=Q1672740&diff=82768530
 http://wikidata.org/wiki/Q4248622 http://www.wikidata.org/w/index.php?title=Q4248622&diff=83928374
 http://wikidata.org/wiki/Q160353 http://www.wikidata.org/w/index.php?title=Q160353&diff=77486482
 http://wikidata.org/wiki/Q704015 http://www.wikidata.org/w/index.php?title=Q704015&diff=50765636
@@ -7059,7 +7028,6 @@ http://wikidata.org/wiki/Q4391061 http://www.wikidata.org/w/index.php?title=Q439
 http://wikidata.org/wiki/Q271956 http://www.wikidata.org/w/index.php?title=Q271956&diff=82921267
 http://wikidata.org/wiki/Q4233024 http://www.wikidata.org/w/index.php?title=Q4233024&diff=83714099 http://www.wikidata.org/w/index.php?title=Q4233024&diff=83714085
 http://wikidata.org/wiki/Q125811 http://www.wikidata.org/w/index.php?title=Q125811&diff=81424718
-http://wikidata.org/wiki/Q91661 http://www.wikidata.org/w/index.php?title=Q91661&diff=85545349 http://www.wikidata.org/w/index.php?title=Q91661&diff=85545340
 http://wikidata.org/wiki/Q435584 http://www.wikidata.org/w/index.php?title=Q435584&diff=84614567
 http://wikidata.org/wiki/Q697165 http://www.wikidata.org/w/index.php?title=Q697165&diff=78922787
 http://wikidata.org/wiki/Q4458966 http://www.wikidata.org/w/index.php?title=Q4458966&diff=78139905
@@ -7365,7 +7333,6 @@ http://wikidata.org/wiki/Q4532501 http://www.wikidata.org/w/index.php?title=Q453
 http://wikidata.org/wiki/Q4075091 http://www.wikidata.org/w/index.php?title=Q4075091&diff=81120107
 http://wikidata.org/wiki/Q2010955 http://www.wikidata.org/w/index.php?title=Q2010955&diff=78378940
 http://wikidata.org/wiki/Q4098856 http://www.wikidata.org/w/index.php?title=Q4098856&diff=81445340
-http://wikidata.org/wiki/Q535400 http://www.wikidata.org/w/index.php?title=Q535400&diff=78668420
 http://wikidata.org/wiki/Q15063917 http://www.wikidata.org/w/index.php?title=Q15063917&diff=77541663
 http://wikidata.org/wiki/Q1992310 http://www.wikidata.org/w/index.php?title=Q1992310&diff=116746904
 http://wikidata.org/wiki/Q1931590 http://www.wikidata.org/w/index.php?title=Q1931590&diff=75009203
@@ -7923,7 +7890,6 @@ http://wikidata.org/wiki/Q333770 http://www.wikidata.org/w/index.php?title=Q3337
 http://wikidata.org/wiki/Q4387087 http://www.wikidata.org/w/index.php?title=Q4387087&diff=80169495 http://www.wikidata.org/w/index.php?title=Q4387087&diff=80169521
 http://wikidata.org/wiki/Q3917297 http://www.wikidata.org/w/index.php?title=Q3917297&diff=80180363
 http://wikidata.org/wiki/Q532979 http://www.wikidata.org/w/index.php?title=Q532979&diff=79679526
-http://wikidata.org/wiki/Q4274539 http://www.wikidata.org/w/index.php?title=Q4274539&diff=84481446
 http://wikidata.org/wiki/Q1980501 http://www.wikidata.org/w/index.php?title=Q1980501&diff=82957067
 http://wikidata.org/wiki/Q4309839 http://www.wikidata.org/w/index.php?title=Q4309839&diff=78498057
 http://wikidata.org/wiki/Q455195 http://www.wikidata.org/w/index.php?title=Q455195&diff=81325529
@@ -8074,7 +8040,6 @@ http://wikidata.org/wiki/Q887223 http://www.wikidata.org/w/index.php?title=Q8872
 http://wikidata.org/wiki/Q1394543 http://www.wikidata.org/w/index.php?title=Q1394543&diff=76103542 http://www.wikidata.org/w/index.php?title=Q1394543&diff=76103531
 http://wikidata.org/wiki/Q19489 http://www.wikidata.org/w/index.php?title=Q19489&diff=79778406
 http://wikidata.org/wiki/Q2081402 http://www.wikidata.org/w/index.php?title=Q2081402&diff=83317358
-http://wikidata.org/wiki/Q3119475 http://www.wikidata.org/w/index.php?title=Q3119475&diff=79217259
 http://wikidata.org/wiki/Q197338 http://www.wikidata.org/w/index.php?title=Q197338&diff=76325193 http://www.wikidata.org/w/index.php?title=Q197338&diff=76325185
 http://wikidata.org/wiki/Q3934080 http://www.wikidata.org/w/index.php?title=Q3934080&diff=80545020 http://www.wikidata.org/w/index.php?title=Q3934080&diff=80545004
 http://wikidata.org/wiki/Q269239 http://www.wikidata.org/w/index.php?title=Q269239&diff=70223800
@@ -8114,7 +8079,6 @@ http://wikidata.org/wiki/Q3740440 http://www.wikidata.org/w/index.php?title=Q374
 http://wikidata.org/wiki/Q4135332 http://www.wikidata.org/w/index.php?title=Q4135332&diff=82084954
 http://wikidata.org/wiki/Q7271092 http://www.wikidata.org/w/index.php?title=Q7271092&diff=82938758
 http://wikidata.org/wiki/Q774723 http://www.wikidata.org/w/index.php?title=Q774723&diff=84561344 http://www.wikidata.org/w/index.php?title=Q774723&diff=84561335
-http://wikidata.org/wiki/Q4297355 http://www.wikidata.org/w/index.php?title=Q4297355&diff=78233051
 http://wikidata.org/wiki/Q324748 http://www.wikidata.org/w/index.php?title=Q324748&diff=81170948
 http://wikidata.org/wiki/Q4297357 http://www.wikidata.org/w/index.php?title=Q4297357&diff=79727737
 http://wikidata.org/wiki/Q4983085 http://www.wikidata.org/w/index.php?title=Q4983085&diff=78114679 http://www.wikidata.org/w/index.php?title=Q4983085&diff=78114668
@@ -8492,7 +8456,6 @@ http://wikidata.org/wiki/Q4297423 http://www.wikidata.org/w/index.php?title=Q429
 http://wikidata.org/wiki/Q443333 http://www.wikidata.org/w/index.php?title=Q443333&diff=75377345
 http://wikidata.org/wiki/Q4503390 http://www.wikidata.org/w/index.php?title=Q4503390&diff=76774783
 http://wikidata.org/wiki/Q4060002 http://www.wikidata.org/w/index.php?title=Q4060002&diff=79878683
-http://wikidata.org/wiki/Q4060009 http://www.wikidata.org/w/index.php?title=Q4060009&diff=80860525 http://www.wikidata.org/w/index.php?title=Q4060009&diff=80860514
 http://wikidata.org/wiki/Q678053 http://www.wikidata.org/w/index.php?title=Q678053&diff=81004600
 http://wikidata.org/wiki/Q13883377 http://www.wikidata.org/w/index.php?title=Q13883377&diff=57683010
 http://wikidata.org/wiki/Q60015 http://www.wikidata.org/w/index.php?title=Q60015&diff=82012725
@@ -8534,7 +8497,6 @@ http://wikidata.org/wiki/Q4181148 http://www.wikidata.org/w/index.php?title=Q418
 http://wikidata.org/wiki/Q54010 http://www.wikidata.org/w/index.php?title=Q54010&diff=84776061
 http://wikidata.org/wiki/Q16332479 http://www.wikidata.org/w/index.php?title=Q16332479&diff=122725317 http://www.wikidata.org/w/index.php?title=Q16332479&diff=122725290
 http://wikidata.org/wiki/Q1353142 http://www.wikidata.org/w/index.php?title=Q1353142&diff=77808318
-http://wikidata.org/wiki/Q41380 http://www.wikidata.org/w/index.php?title=Q41380&diff=48171941 http://www.wikidata.org/w/index.php?title=Q41380&diff=48171771
 http://wikidata.org/wiki/Q3119458 http://www.wikidata.org/w/index.php?title=Q3119458&diff=80139091
 http://wikidata.org/wiki/Q4292975 http://www.wikidata.org/w/index.php?title=Q4292975&diff=84779970 http://www.wikidata.org/w/index.php?title=Q4292975&diff=84779978
 http://wikidata.org/wiki/Q1343094 http://www.wikidata.org/w/index.php?title=Q1343094&diff=75186764
@@ -8826,7 +8788,6 @@ http://wikidata.org/wiki/Q740592 http://www.wikidata.org/w/index.php?title=Q7405
 http://wikidata.org/wiki/Q4229626 http://www.wikidata.org/w/index.php?title=Q4229626&diff=83679667
 http://wikidata.org/wiki/Q972278 http://www.wikidata.org/w/index.php?title=Q972278&diff=78480861 http://www.wikidata.org/w/index.php?title=Q972278&diff=79274050
 http://wikidata.org/wiki/Q2833722 http://www.wikidata.org/w/index.php?title=Q2833722&diff=77418231 http://www.wikidata.org/w/index.php?title=Q2833722&diff=77418221
-http://wikidata.org/wiki/Q716693 http://www.wikidata.org/w/index.php?title=Q716693&diff=84549978
 http://wikidata.org/wiki/Q15071153 http://www.wikidata.org/w/index.php?title=Q15071153&diff=78102605
 http://wikidata.org/wiki/Q1376802 http://www.wikidata.org/w/index.php?title=Q1376802&diff=82872556
 http://wikidata.org/wiki/Q4074522 http://www.wikidata.org/w/index.php?title=Q4074522&diff=81113817
@@ -9115,7 +9076,6 @@ http://wikidata.org/wiki/Q2040679 http://www.wikidata.org/w/index.php?title=Q204
 http://wikidata.org/wiki/Q314978 http://www.wikidata.org/w/index.php?title=Q314978&diff=82952974 http://www.wikidata.org/w/index.php?title=Q314978&diff=82952968
 http://wikidata.org/wiki/Q4177371 http://www.wikidata.org/w/index.php?title=Q4177371&diff=82893173
 http://wikidata.org/wiki/Q171144 http://www.wikidata.org/w/index.php?title=Q171144&diff=54578852
-http://wikidata.org/wiki/Q4171716 http://www.wikidata.org/w/index.php?title=Q4171716&diff=82860676
 http://wikidata.org/wiki/Q3105293 http://www.wikidata.org/w/index.php?title=Q3105293&diff=83227053
 http://wikidata.org/wiki/Q888108 http://www.wikidata.org/w/index.php?title=Q888108&diff=77442559
 http://wikidata.org/wiki/Q739561 http://www.wikidata.org/w/index.php?title=Q739561&diff=51143531
@@ -9239,7 +9199,6 @@ http://wikidata.org/wiki/Q2889730 http://www.wikidata.org/w/index.php?title=Q288
 http://wikidata.org/wiki/Q164882 http://www.wikidata.org/w/index.php?title=Q164882&diff=77101329
 http://wikidata.org/wiki/Q354823 http://www.wikidata.org/w/index.php?title=Q354823&diff=83961675
 http://wikidata.org/wiki/Q77962 http://www.wikidata.org/w/index.php?title=Q77962&diff=84785349 http://www.wikidata.org/w/index.php?title=Q77962&diff=84785342
-http://wikidata.org/wiki/Q4056074 http://www.wikidata.org/w/index.php?title=Q4056074&diff=80811579
 http://wikidata.org/wiki/Q608506 http://www.wikidata.org/w/index.php?title=Q608506&diff=83295083
 http://wikidata.org/wiki/Q4313972 http://www.wikidata.org/w/index.php?title=Q4313972&diff=78562836
 http://wikidata.org/wiki/Q15637085 http://www.wikidata.org/w/index.php?title=Q15637085&diff=104412033
@@ -9851,7 +9810,6 @@ http://wikidata.org/wiki/Q208125 http://www.wikidata.org/w/index.php?title=Q2081
 http://wikidata.org/wiki/Q767905 http://www.wikidata.org/w/index.php?title=Q767905&diff=81517973
 http://wikidata.org/wiki/Q4457286 http://www.wikidata.org/w/index.php?title=Q4457286&diff=78392668
 http://wikidata.org/wiki/Q3755311 http://www.wikidata.org/w/index.php?title=Q3755311&diff=106109892
-http://wikidata.org/wiki/Q4277783 http://www.wikidata.org/w/index.php?title=Q4277783&diff=84518813 http://www.wikidata.org/w/index.php?title=Q4277783&diff=84518800
 http://wikidata.org/wiki/Q2681594 http://www.wikidata.org/w/index.php?title=Q2681594&diff=79268532
 http://wikidata.org/wiki/Q440558 http://www.wikidata.org/w/index.php?title=Q440558&diff=83436630
 http://wikidata.org/wiki/Q2072026 http://www.wikidata.org/w/index.php?title=Q2072026&diff=78788196
@@ -10045,7 +10003,6 @@ http://wikidata.org/wiki/Q2350777 http://www.wikidata.org/w/index.php?title=Q235
 http://wikidata.org/wiki/Q293683 http://www.wikidata.org/w/index.php?title=Q293683&diff=80774545 http://www.wikidata.org/w/index.php?title=Q293683&diff=80774536
 http://wikidata.org/wiki/Q2633146 http://www.wikidata.org/w/index.php?title=Q2633146&diff=82147602 http://www.wikidata.org/w/index.php?title=Q2633146&diff=82147596
 http://wikidata.org/wiki/Q103260 http://www.wikidata.org/w/index.php?title=Q103260&diff=60539087
-http://wikidata.org/wiki/Q15071383 http://www.wikidata.org/w/index.php?title=Q15071383&diff=78115603
 http://wikidata.org/wiki/Q379685 http://www.wikidata.org/w/index.php?title=Q379685&diff=83175214
 http://wikidata.org/wiki/Q4278007 http://www.wikidata.org/w/index.php?title=Q4278007&diff=84520608
 http://wikidata.org/wiki/Q4187496 http://www.wikidata.org/w/index.php?title=Q4187496&diff=82943291
@@ -10116,7 +10073,6 @@ http://wikidata.org/wiki/Q192925 http://www.wikidata.org/w/index.php?title=Q1929
 http://wikidata.org/wiki/Q2171665 http://www.wikidata.org/w/index.php?title=Q2171665&diff=81832729 http://www.wikidata.org/w/index.php?title=Q2171665&diff=81832722
 http://wikidata.org/wiki/Q4525807 http://www.wikidata.org/w/index.php?title=Q4525807&diff=75401879
 http://wikidata.org/wiki/Q4264080 http://www.wikidata.org/w/index.php?title=Q4264080&diff=84117248
-http://wikidata.org/wiki/Q9263 http://www.wikidata.org/w/index.php?title=Q9263&diff=75177218 http://www.wikidata.org/w/index.php?title=Q9263&diff=75177207
 http://wikidata.org/wiki/Q312589 http://www.wikidata.org/w/index.php?title=Q312589&diff=82791650 http://www.wikidata.org/w/index.php?title=Q312589&diff=82791641
 http://wikidata.org/wiki/Q4170109 http://www.wikidata.org/w/index.php?title=Q4170109&diff=79794848
 http://wikidata.org/wiki/Q992978 http://www.wikidata.org/w/index.php?title=Q992978&diff=79093684
@@ -10155,7 +10111,6 @@ http://wikidata.org/wiki/Q113176 http://www.wikidata.org/w/index.php?title=Q1131
 http://wikidata.org/wiki/Q4342711 http://www.wikidata.org/w/index.php?title=Q4342711&diff=79113524
 http://wikidata.org/wiki/Q2656780 http://www.wikidata.org/w/index.php?title=Q2656780&diff=76981089
 http://wikidata.org/wiki/Q1631158 http://www.wikidata.org/w/index.php?title=Q1631158&diff=74275784
-http://wikidata.org/wiki/Q12117326 http://www.wikidata.org/w/index.php?title=Q12117326&diff=84067134 http://www.wikidata.org/w/index.php?title=Q12117326&diff=84067128
 http://wikidata.org/wiki/Q2369108 http://www.wikidata.org/w/index.php?title=Q2369108&diff=80974662
 http://wikidata.org/wiki/Q4357924 http://www.wikidata.org/w/index.php?title=Q4357924&diff=79380923
 http://wikidata.org/wiki/Q6027272 http://www.wikidata.org/w/index.php?title=Q6027272&diff=76115641
@@ -10186,7 +10141,6 @@ http://wikidata.org/wiki/Q4236748 http://www.wikidata.org/w/index.php?title=Q423
 http://wikidata.org/wiki/Q4373635 http://www.wikidata.org/w/index.php?title=Q4373635&diff=79775307
 http://wikidata.org/wiki/Q4373631 http://www.wikidata.org/w/index.php?title=Q4373631&diff=79548102
 http://wikidata.org/wiki/Q4060361 http://www.wikidata.org/w/index.php?title=Q4060361&diff=76707678
-http://wikidata.org/wiki/Q377927 http://www.wikidata.org/w/index.php?title=Q377927&diff=87821421
 http://wikidata.org/wiki/Q131002 http://www.wikidata.org/w/index.php?title=Q131002&diff=77107554 http://www.wikidata.org/w/index.php?title=Q131002&diff=48396170
 http://wikidata.org/wiki/Q1269166 http://www.wikidata.org/w/index.php?title=Q1269166&diff=78737448
 http://wikidata.org/wiki/Q4537853 http://www.wikidata.org/w/index.php?title=Q4537853&diff=75028992
@@ -10321,7 +10275,6 @@ http://wikidata.org/wiki/Q4226283 http://www.wikidata.org/w/index.php?title=Q422
 http://wikidata.org/wiki/Q4067287 http://www.wikidata.org/w/index.php?title=Q4067287&diff=80980993
 http://wikidata.org/wiki/Q325122 http://www.wikidata.org/w/index.php?title=Q325122&diff=78944592
 http://wikidata.org/wiki/Q2607440 http://www.wikidata.org/w/index.php?title=Q2607440&diff=82011101
-http://wikidata.org/wiki/Q4226284 http://www.wikidata.org/w/index.php?title=Q4226284&diff=83529079
 http://wikidata.org/wiki/Q4226288 http://www.wikidata.org/w/index.php?title=Q4226288&diff=52575202
 http://wikidata.org/wiki/Q385719 http://www.wikidata.org/w/index.php?title=Q385719&diff=79675428
 http://wikidata.org/wiki/Q720 http://www.wikidata.org/w/index.php?title=Q720&diff=76315762
@@ -10414,7 +10367,6 @@ http://wikidata.org/wiki/Q4341956 http://www.wikidata.org/w/index.php?title=Q434
 http://wikidata.org/wiki/Q15150186 http://www.wikidata.org/w/index.php?title=Q15150186&diff=86118629
 http://wikidata.org/wiki/Q1425043 http://www.wikidata.org/w/index.php?title=Q1425043&diff=117794213
 http://wikidata.org/wiki/Q4526928 http://www.wikidata.org/w/index.php?title=Q4526928&diff=75238090
-http://wikidata.org/wiki/Q15072098 http://www.wikidata.org/w/index.php?title=Q15072098&diff=78201026
 http://wikidata.org/wiki/Q528206 http://www.wikidata.org/w/index.php?title=Q528206&diff=82852019
 http://wikidata.org/wiki/Q566789 http://www.wikidata.org/w/index.php?title=Q566789&diff=82007669
 http://wikidata.org/wiki/Q151781 http://www.wikidata.org/w/index.php?title=Q151781&diff=48405954 http://www.wikidata.org/w/index.php?title=Q151781&diff=48405947
@@ -10494,7 +10446,6 @@ http://wikidata.org/wiki/Q11623214 http://www.wikidata.org/w/index.php?title=Q11
 http://wikidata.org/wiki/Q1289660 http://www.wikidata.org/w/index.php?title=Q1289660&diff=75599197 http://www.wikidata.org/w/index.php?title=Q1289660&diff=75599180
 http://wikidata.org/wiki/Q4097027 http://www.wikidata.org/w/index.php?title=Q4097027&diff=81419158 http://www.wikidata.org/w/index.php?title=Q4097027&diff=81419165
 http://wikidata.org/wiki/Q696750 http://www.wikidata.org/w/index.php?title=Q696750&diff=79726312
-http://wikidata.org/wiki/Q2554120 http://www.wikidata.org/w/index.php?title=Q2554120&diff=83430799
 http://wikidata.org/wiki/Q2667838 http://www.wikidata.org/w/index.php?title=Q2667838&diff=81849784
 http://wikidata.org/wiki/Q4098035 http://www.wikidata.org/w/index.php?title=Q4098035&diff=81436773
 http://wikidata.org/wiki/Q4349600 http://www.wikidata.org/w/index.php?title=Q4349600&diff=79342904
@@ -10513,7 +10464,6 @@ http://wikidata.org/wiki/Q3017996 http://www.wikidata.org/w/index.php?title=Q301
 http://wikidata.org/wiki/Q3650557 http://www.wikidata.org/w/index.php?title=Q3650557&diff=76715487
 http://wikidata.org/wiki/Q4317391 http://www.wikidata.org/w/index.php?title=Q4317391&diff=78616719
 http://wikidata.org/wiki/Q4493877 http://www.wikidata.org/w/index.php?title=Q4493877&diff=77713244 http://www.wikidata.org/w/index.php?title=Q4493877&diff=77713227
-http://wikidata.org/wiki/Q1147374 http://www.wikidata.org/w/index.php?title=Q1147374&diff=81406767 http://www.wikidata.org/w/index.php?title=Q1147374&diff=81406773
 http://wikidata.org/wiki/Q2015048 http://www.wikidata.org/w/index.php?title=Q2015048&diff=76969348
 http://wikidata.org/wiki/Q4398645 http://www.wikidata.org/w/index.php?title=Q4398645&diff=80286508 http://www.wikidata.org/w/index.php?title=Q4398645&diff=80286491
 http://wikidata.org/wiki/Q741098 http://www.wikidata.org/w/index.php?title=Q741098&diff=91326239 http://www.wikidata.org/w/index.php?title=Q741098&diff=91326213
@@ -10614,7 +10564,6 @@ http://wikidata.org/wiki/Q4338054 http://www.wikidata.org/w/index.php?title=Q433
 http://wikidata.org/wiki/Q332860 http://www.wikidata.org/w/index.php?title=Q332860&diff=81414033 http://www.wikidata.org/w/index.php?title=Q332860&diff=81414025
 http://wikidata.org/wiki/Q2786355 http://www.wikidata.org/w/index.php?title=Q2786355&diff=79835302 http://www.wikidata.org/w/index.php?title=Q2786355&diff=79835285
 http://wikidata.org/wiki/Q3661012 http://www.wikidata.org/w/index.php?title=Q3661012&diff=83654774
-http://wikidata.org/wiki/Q324247 http://www.wikidata.org/w/index.php?title=Q324247&diff=78830002
 http://wikidata.org/wiki/Q4280643 http://www.wikidata.org/w/index.php?title=Q4280643&diff=84553085
 http://wikidata.org/wiki/Q5539876 http://www.wikidata.org/w/index.php?title=Q5539876&diff=82208074
 http://wikidata.org/wiki/Q453491 http://www.wikidata.org/w/index.php?title=Q453491&diff=84812838
@@ -10863,7 +10812,6 @@ http://wikidata.org/wiki/Q442449 http://www.wikidata.org/w/index.php?title=Q4424
 http://wikidata.org/wiki/Q4515909 http://www.wikidata.org/w/index.php?title=Q4515909&diff=76317486
 http://wikidata.org/wiki/Q740325 http://www.wikidata.org/w/index.php?title=Q740325&diff=84570886
 http://wikidata.org/wiki/Q532091 http://www.wikidata.org/w/index.php?title=Q532091&diff=81417124
-http://wikidata.org/wiki/Q4143795 http://www.wikidata.org/w/index.php?title=Q4143795&diff=82178911
 http://wikidata.org/wiki/Q4378980 http://www.wikidata.org/w/index.php?title=Q4378980&diff=79844746
 http://wikidata.org/wiki/Q115863 http://www.wikidata.org/w/index.php?title=Q115863&diff=75428878
 http://wikidata.org/wiki/Q4131292 http://www.wikidata.org/w/index.php?title=Q4131292&diff=81933108
@@ -10877,7 +10825,6 @@ http://wikidata.org/wiki/Q4288004 http://www.wikidata.org/w/index.php?title=Q428
 http://wikidata.org/wiki/Q4312160 http://www.wikidata.org/w/index.php?title=Q4312160&diff=78534628
 http://wikidata.org/wiki/Q259900 http://www.wikidata.org/w/index.php?title=Q259900&diff=81600055
 http://wikidata.org/wiki/Q4288003 http://www.wikidata.org/w/index.php?title=Q4288003&diff=84757567
-http://wikidata.org/wiki/Q172254 http://www.wikidata.org/w/index.php?title=Q172254&diff=50640693 http://www.wikidata.org/w/index.php?title=Q172254&diff=50677462
 http://wikidata.org/wiki/Q449770 http://www.wikidata.org/w/index.php?title=Q449770&diff=78091468
 http://wikidata.org/wiki/Q3103998 http://www.wikidata.org/w/index.php?title=Q3103998&diff=82102377
 http://wikidata.org/wiki/Q2528283 http://www.wikidata.org/w/index.php?title=Q2528283&diff=80922962
@@ -10899,7 +10846,6 @@ http://wikidata.org/wiki/Q722736 http://www.wikidata.org/w/index.php?title=Q7227
 http://wikidata.org/wiki/Q4456756 http://www.wikidata.org/w/index.php?title=Q4456756&diff=78477279 http://www.wikidata.org/w/index.php?title=Q4456756&diff=78477269
 http://wikidata.org/wiki/Q4299399 http://www.wikidata.org/w/index.php?title=Q4299399&diff=79269532
 http://wikidata.org/wiki/Q4130535 http://www.wikidata.org/w/index.php?title=Q4130535&diff=81923738 http://www.wikidata.org/w/index.php?title=Q4130535&diff=81923725
-http://wikidata.org/wiki/Q1402279 http://www.wikidata.org/w/index.php?title=Q1402279&diff=79629267
 http://wikidata.org/wiki/Q373048 http://www.wikidata.org/w/index.php?title=Q373048&diff=81377917
 http://wikidata.org/wiki/Q4339081 http://www.wikidata.org/w/index.php?title=Q4339081&diff=79037069 http://www.wikidata.org/w/index.php?title=Q4339081&diff=79037056
 http://wikidata.org/wiki/Q2992076 http://www.wikidata.org/w/index.php?title=Q2992076&diff=83501025
@@ -10957,7 +10903,6 @@ http://wikidata.org/wiki/Q4221384 http://www.wikidata.org/w/index.php?title=Q422
 http://wikidata.org/wiki/Q2459068 http://www.wikidata.org/w/index.php?title=Q2459068&diff=102630313
 http://wikidata.org/wiki/Q4234540 http://www.wikidata.org/w/index.php?title=Q4234540&diff=83743663
 http://wikidata.org/wiki/Q4234545 http://www.wikidata.org/w/index.php?title=Q4234545&diff=83743909
-http://wikidata.org/wiki/Q4384878 http://www.wikidata.org/w/index.php?title=Q4384878&diff=79946126
 http://wikidata.org/wiki/Q1938767 http://www.wikidata.org/w/index.php?title=Q1938767&diff=79468134
 http://wikidata.org/wiki/Q4135965 http://www.wikidata.org/w/index.php?title=Q4135965&diff=82099628
 http://wikidata.org/wiki/Q353008 http://www.wikidata.org/w/index.php?title=Q353008&diff=70467378 http://www.wikidata.org/w/index.php?title=Q353008&diff=70467370
@@ -11193,14 +11138,12 @@ http://wikidata.org/wiki/Q350246 http://www.wikidata.org/w/index.php?title=Q3502
 http://wikidata.org/wiki/Q877544 http://www.wikidata.org/w/index.php?title=Q877544&diff=80253810 http://www.wikidata.org/w/index.php?title=Q877544&diff=80253800
 http://wikidata.org/wiki/Q748091 http://www.wikidata.org/w/index.php?title=Q748091&diff=82974114
 http://wikidata.org/wiki/Q4069796 http://www.wikidata.org/w/index.php?title=Q4069796&diff=81074401 http://www.wikidata.org/w/index.php?title=Q4069796&diff=81074395
-http://wikidata.org/wiki/Q4234979 http://www.wikidata.org/w/index.php?title=Q4234979&diff=83751956
 http://wikidata.org/wiki/Q44170 http://www.wikidata.org/w/index.php?title=Q44170&diff=83111226
 http://wikidata.org/wiki/Q715993 http://www.wikidata.org/w/index.php?title=Q715993&diff=82747727 http://www.wikidata.org/w/index.php?title=Q715993&diff=82747716
 http://wikidata.org/wiki/Q4297294 http://www.wikidata.org/w/index.php?title=Q4297294&diff=78229843 http://www.wikidata.org/w/index.php?title=Q4297294&diff=78229828
 http://wikidata.org/wiki/Q3642201 http://www.wikidata.org/w/index.php?title=Q3642201&diff=81366212
 http://wikidata.org/wiki/Q4090388 http://www.wikidata.org/w/index.php?title=Q4090388&diff=81355108
 http://wikidata.org/wiki/Q4275946 http://www.wikidata.org/w/index.php?title=Q4275946&diff=84505899
-http://wikidata.org/wiki/Q4275947 http://www.wikidata.org/w/index.php?title=Q4275947&diff=84505940
 http://wikidata.org/wiki/Q281752 http://www.wikidata.org/w/index.php?title=Q281752&diff=80932486
 http://wikidata.org/wiki/Q333356 http://www.wikidata.org/w/index.php?title=Q333356&diff=79621040 http://www.wikidata.org/w/index.php?title=Q333356&diff=79621029
 http://wikidata.org/wiki/Q4149026 http://www.wikidata.org/w/index.php?title=Q4149026&diff=82218682
@@ -11686,7 +11629,6 @@ http://wikidata.org/wiki/Q451143 http://www.wikidata.org/w/index.php?title=Q4511
 http://wikidata.org/wiki/Q4410626 http://www.wikidata.org/w/index.php?title=Q4410626&diff=79735547
 http://wikidata.org/wiki/Q4410627 http://www.wikidata.org/w/index.php?title=Q4410627&diff=79735510
 http://wikidata.org/wiki/Q4059279 http://www.wikidata.org/w/index.php?title=Q4059279&diff=80850845
-http://wikidata.org/wiki/Q307552 http://www.wikidata.org/w/index.php?title=Q307552&diff=80709224
 http://wikidata.org/wiki/Q347688 http://www.wikidata.org/w/index.php?title=Q347688&diff=77030802 http://www.wikidata.org/w/index.php?title=Q347688&diff=77030787
 http://wikidata.org/wiki/Q938534 http://www.wikidata.org/w/index.php?title=Q938534&diff=74115369 http://www.wikidata.org/w/index.php?title=Q938534&diff=74115359
 http://wikidata.org/wiki/Q155585 http://www.wikidata.org/w/index.php?title=Q155585&diff=69877501 http://www.wikidata.org/w/index.php?title=Q155585&diff=69877494
@@ -12119,7 +12061,6 @@ http://wikidata.org/wiki/Q3854022 http://www.wikidata.org/w/index.php?title=Q385
 http://wikidata.org/wiki/Q4497009 http://www.wikidata.org/w/index.php?title=Q4497009&diff=77068600 http://www.wikidata.org/w/index.php?title=Q4497009&diff=77068590
 http://wikidata.org/wiki/Q2030312 http://www.wikidata.org/w/index.php?title=Q2030312&diff=77454406
 http://wikidata.org/wiki/Q4218579 http://www.wikidata.org/w/index.php?title=Q4218579&diff=83291339
-http://wikidata.org/wiki/Q3061594 http://www.wikidata.org/w/index.php?title=Q3061594&diff=81914053
 http://wikidata.org/wiki/Q4109394 http://www.wikidata.org/w/index.php?title=Q4109394&diff=81687712
 http://wikidata.org/wiki/Q4191413 http://www.wikidata.org/w/index.php?title=Q4191413&diff=82957051
 http://wikidata.org/wiki/Q4215853 http://www.wikidata.org/w/index.php?title=Q4215853&diff=79773474
@@ -12150,7 +12091,6 @@ http://wikidata.org/wiki/Q366967 http://www.wikidata.org/w/index.php?title=Q3669
 http://wikidata.org/wiki/Q2002437 http://www.wikidata.org/w/index.php?title=Q2002437&diff=80550207 http://www.wikidata.org/w/index.php?title=Q2002437&diff=80550222
 http://wikidata.org/wiki/Q381273 http://www.wikidata.org/w/index.php?title=Q381273&diff=79675354
 http://wikidata.org/wiki/Q336471 http://www.wikidata.org/w/index.php?title=Q336471&diff=83934452
-http://wikidata.org/wiki/Q1361095 http://www.wikidata.org/w/index.php?title=Q1361095&diff=82724857
 http://wikidata.org/wiki/Q4380184 http://www.wikidata.org/w/index.php?title=Q4380184&diff=79858756
 http://wikidata.org/wiki/Q4127277 http://www.wikidata.org/w/index.php?title=Q4127277&diff=81908749
 http://wikidata.org/wiki/Q265430 http://www.wikidata.org/w/index.php?title=Q265430&diff=82878079 http://www.wikidata.org/w/index.php?title=Q265430&diff=82878072
