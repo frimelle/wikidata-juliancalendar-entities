@@ -3,8 +3,8 @@ import os
 
 content = []
 
-orig_file = 'gregItems.txt'
-working_file = 'gregItems.txt~'
+orig_file = 'gregItems-user.txt'
+working_file = 'gregItems-user.txt~'
 
 with open( orig_file ) as f, open( working_file, 'w+' ) as working:
     content = f.readlines()

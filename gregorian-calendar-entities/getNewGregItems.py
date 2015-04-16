@@ -1,8 +1,6 @@
 # This Python file uses the following encoding: utf-8
 #!/usr/bin/python
 from SPARQLWrapper import SPARQLWrapper, JSON
-import csv
-from collections import defaultdict
 import urllib2
 import json
 
@@ -14,17 +12,30 @@ WHERE {
 <http://www.wikidata.org/entity/Q1985727>.
   ?valueNode <http://www.wikidata.org/ontology#time> ?timeString.
   FILTER (?timeString < "1500-01-01"^^xsd:date).
-} GROUP BY ?entity
+}
 """
 sparqlDict = {}
+bots = []
 
 def url_opener(url):
     opener = urllib2.build_opener()
     opener.addheaders = [('User-agent', 'Script to get the statistics, lucie.kaffee@wikimedia.de')]
-    infile = opener.open(url)
+    try: infile = opener.open(url)
+    except URLError as e:
+        print e.reason
     page = json.load(infile)
     return page
 
+def getBots():
+    page = url_opener('https://www.wikidata.org/w/api.php?action=query&list=allusers&augroup=bot&aulimit=200&format=json')
+    bots = page['query']['allusers']
+    return bots
+
+def checkBot(user):
+    for i in range(len(bots)):
+        if bots[i]['name'] in user:
+            print bots[i]['name']
+            return True
 
 def queryData( sparql_query ):
     try:
@@ -54,8 +65,6 @@ def getSPARQLdata():
 
                 history(entity_id, prop)
 
-    print "SPARQL list: " + str(len( sparqlList ))
-
 
 def history(entity_id, prop):
     page = url_opener("https://www.wikidata.org/w/api.php?action=query&prop=revisions&titles=" + entity_id + "&rvlimit=500&rvprop=timestamp|user|comment|ids&indexpageids=1&format=json")
@@ -63,21 +72,21 @@ def history(entity_id, prop):
     for pageid in pageids:
         if 'revisions' in page['query']['pages'][pageid]:
             for revision in page['query']['pages'][pageid]['revisions']:
-                if prop in revision['comment']:
-                    if not 'wbsetreference' in revision['comment']:
-                        if not entity_id in sparqlDict:
-                            sparqlDict[entity_id] = 'http://www.wikidata.org/w/index.php?title=' + entity_id + '&diff=' + str(revision['revid'])
-                        else:
-                            sparqlDict[entity_id] = 'http://www.wikidata.org/w/index.php?title=' + entity_id + '&diff=' + str(revision['revid']) + " " + str(sparqlDict[entity_id])
+                if prop in revision['comment'] and not 'wbsetreference' in revision['comment']:
+                        if not checkBot(revision['user']):
+                            if not entity_id in sparqlDict:
+                                sparqlDict[entity_id] = 'http://www.wikidata.org/w/index.php?title=' + entity_id + '&diff=' + str(revision['revid'])
+                            else:
+                                sparqlDict[entity_id] = 'http://www.wikidata.org/w/index.php?title=' + entity_id + '&diff=' + str(revision['revid']) + " " + str(sparqlDict[entity_id])
 
 
 def writeFile(file, list):
      f = open( file, 'w+' )
      for item in list:
-         f.write(item + " " + 'http://wikidata.org/entity/' + list.get(item) + '\n')
+         f.write(item + " " +  list.get(item) + '\n')
      f.close()
 
+bots = getBots()
 getSPARQLdata()
-writeFile('gregItems.txt', sparqlDict)
-
-#writeFile('newItems.txt', getSPARQLdata())
+print "SPARQL list: " + str(len( sparqlDict ))
+writeFile('gregItems-user1.txt', sparqlDict)
